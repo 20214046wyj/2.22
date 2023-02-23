@@ -11,5 +11,6 @@
 
 <br> <input type="button" value="添加学生信息" onclick="location.href='add.jsp'" /> <br>
 <br> <input type="button" value="删除学生信息" onclick="location.href='delete.jsp'" /> <br>
+<br> <input type="button" value="修改学生信息" onclick="location.href='xiugai.jsp'" /> <br>
 </body>
 </html>
